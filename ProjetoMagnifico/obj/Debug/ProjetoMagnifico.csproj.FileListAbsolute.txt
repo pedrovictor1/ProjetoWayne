@@ -1,0 +1,11 @@
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\bin\Debug\ProjetoMagnifico.exe.config
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\bin\Debug\ProjetoMagnifico.exe
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\bin\Debug\ProjetoMagnifico.pdb
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.csprojResolveAssemblyReference.cache
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.Properties.Resources.resources
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.csproj.GenerateResource.Cache
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.exe
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.pdb
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.frmLogin.resources
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.frmMenuPrincipal.resources
+C:\Users\pedro.vbaraujo\Downloads\ProjetoMag\ProjetoMagnifico\obj\Debug\ProjetoMagnifico.frmFormulário.resources
